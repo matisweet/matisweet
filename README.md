@@ -30,7 +30,7 @@
 - Generación de reportes automáticos para ejecutivos  
 - Flujo manual para consultas filtradas según necesidad  
 
-### 🔹 Proyecto Cerezas 🌱
+### 🔹 Proyecto Cerezas 
 - Análisis de datos agrícolas  
 - Integración y limpieza de múltiples fuentes (Excel)  
 - Apoyo a decisiones basadas en datos  

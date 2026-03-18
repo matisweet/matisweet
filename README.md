@@ -72,12 +72,6 @@
 
 ---
 
-## 📫 Contacto
-
-<p>
-  <img src="https://github.com/TU_USUARIO.png" width="120" style="border-radius:50%" />
-</p>
-
 ⭐ Interesado en seguir desarrollando soluciones basadas en datos con impacto real.
 <!--
 **matisweet/matisweet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

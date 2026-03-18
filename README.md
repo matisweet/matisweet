@@ -1,7 +1,7 @@
 # 👋 Hola, soy Matías
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mat%C3%ADas-sweet-sep%C3%BAlveda-b73802331/">
+  <a href="https://www.linkedin.com/in/mat%C3%ADas-sweet-sep%C3%BAlveda-b73802331/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:matias.sweet@ug.uchile.cl">
